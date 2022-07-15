@@ -1,0 +1,10 @@
+C:\Users\Mateo\Documents\Trabajo\Prueba_Telefonica_Maicol_Rozo\2_Prueba_técnica\PruebaTelefonicaMaicol\bin\PruebaTelefonicaMaicol.dll.config
+C:\Users\Mateo\Documents\Trabajo\Prueba_Telefonica_Maicol_Rozo\2_Prueba_técnica\PruebaTelefonicaMaicol\bin\PruebaTelefonicaMaicol.dll
+C:\Users\Mateo\Documents\Trabajo\Prueba_Telefonica_Maicol_Rozo\2_Prueba_técnica\PruebaTelefonicaMaicol\bin\PruebaTelefonicaMaicol.pdb
+C:\Users\Mateo\Documents\Trabajo\Prueba_Telefonica_Maicol_Rozo\2_Prueba_técnica\PruebaTelefonicaMaicol\obj\Debug\PruebaTelefonicaMaicol.csproj.AssemblyReference.cache
+C:\Users\Mateo\Documents\Trabajo\Prueba_Telefonica_Maicol_Rozo\2_Prueba_técnica\PruebaTelefonicaMaicol\obj\Debug\PruebaTelefonicaMaicol.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Documents\Trabajo\Prueba_Telefonica_Maicol_Rozo\2_Prueba_técnica\PruebaTelefonicaMaicol\obj\Debug\PruebaTelefonicaMaicol.dll
+C:\Users\Mateo\Documents\Trabajo\Prueba_Telefonica_Maicol_Rozo\2_Prueba_técnica\PruebaTelefonicaMaicol\obj\Debug\PruebaTelefonicaMaicol.pdb
+C:\Users\Mateo\Documents\Trabajo\Prueba_Telefonica_Maicol_Rozo\2_Prueba_técnica\PruebaTelefonicaMaicol\bin\Newtonsoft.Json.dll
+C:\Users\Mateo\Documents\Trabajo\Prueba_Telefonica_Maicol_Rozo\2_Prueba_técnica\PruebaTelefonicaMaicol\bin\Newtonsoft.Json.xml
+C:\Users\Mateo\Documents\Trabajo\Prueba_Telefonica_Maicol_Rozo\2_Prueba_técnica\PruebaTelefonicaMaicol\obj\Debug\PruebaTelefonicaMaicol.csproj.CopyComplete
